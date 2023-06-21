@@ -31,7 +31,25 @@ Entre outros, coloque apenas o que você se sentir confortável para colocar.
 
 ![Snake animation](https://github.com/HelouiseItokazo/HelouiseItokazo/blob/output/github-contribution-grid-snake.svg)
 
-## Contatos:
+## Technologies and Tools:
+
+* **Front**
+  
+![My Skills](https://skillicons.dev/icons?i=css,html,js)
+
+![My Skills](https://skillicons.dev/icons?i=figma,vscode,react,vite)
+
+* **Back**
+
+![My Skills](https://skillicons.dev/icons?i=java,firebase,mysql,nodejs,py)
+
+![My Skills](https://skillicons.dev/icons?i=eclipse,postman,spring,hibernate)
+
+* **Others**
+
+![My Skills](https://skillicons.dev/icons?i=github,git)
+
+## Contact:
 
 <div>
 <a href="https://www.linkedin.com/in/helou%C3%ADse-itokazo-749778132/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
