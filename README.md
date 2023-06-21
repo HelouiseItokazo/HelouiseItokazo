@@ -33,7 +33,7 @@ Entre outros, coloque apenas o que você se sentir confortável para colocar.
 
 ## Contatos:
 
-<div align="center">
+<div>
 <a href="mailto:helouise.almeida93@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-  badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/helou%C3%ADse-itokazo-749778132/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
