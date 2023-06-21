@@ -29,3 +29,4 @@ Entre outros, coloque apenas o que você se sentir confortável para colocar.
 </div>
 
 ![Snake animation](https://github.com/HelouiseItokazo/HelouiseItokazo/blob/output/github-contribution-grid-snake.svg)
+
