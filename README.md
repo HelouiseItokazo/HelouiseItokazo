@@ -2,6 +2,7 @@
 ## My name is Helouíse Itokazo and my nickname is "Helô"!
 
 - 🌱 I’m currently learning more about web development.
+- 🎓 I have a degree in systems analysis and development from FIAP.
 <!--
 **HelouiseItokazo/HelouiseItokazo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
